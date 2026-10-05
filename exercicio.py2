@@ -1,0 +1,5 @@
+compras= []
+compras.append ("arroz")
+compras.append ("feijão")
+compras.append ("açúcar")
+print(compras)
